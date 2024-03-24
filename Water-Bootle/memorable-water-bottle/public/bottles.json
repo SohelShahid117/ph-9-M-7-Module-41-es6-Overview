@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Coca-Cola",
+        "category": "Soft Drink",
+        "price": 1.99,
+        "img": "https://example.com/coca-cola.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Pepsi",
+        "category": "Soft Drink",
+        "price": 1.79,
+        "img": "https://example.com/pepsi.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sprite",
+        "category": "Soft Drink",
+        "price": 1.59,
+        "img": "https://example.com/sprite.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Evian",
+        "category": "Bottled Water",
+        "price": 2.49,
+        "img": "https://example.com/evian.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Perrier",
+        "category": "Sparkling Water",
+        "price": 3.29,
+        "img": "https://example.com/perrier.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Red Bull",
+        "category": "Energy Drink",
+        "price": 2.99,
+        "img": "https://example.com/red-bull.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Gatorade",
+        "category": "Sports Drink",
+        "price": 1.89,
+        "img": "https://example.com/gatorade.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Snapple",
+        "category": "Iced Tea",
+        "price": 2.19,
+        "img": "https://example.com/snapple.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Perrier",
+        "category": "Sparkling Water",
+        "price": 3.29,
+        "img": "https://example.com/perrier.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Red Bull",
+        "category": "Energy Drink",
+        "price": 2.99,
+        "img": "https://example.com/red-bull.jpg"
+    }
+]
